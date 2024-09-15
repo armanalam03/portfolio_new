@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  body {
+    box-sizing: border-box;
+  }
+  :root {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: #3687ff;
+    --primary-foreground: white;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 48%;
+    --purple: #d7b8f3;
+    --dark-purple: #676394;
+    --orange: #946263;
+    /* Common Dark */
+    --Common-Background: var(--neutral-800);
+    --Common-CardBackground: var(--neutral-750);
+    --Common-Minimal: var(--neutral-650);
+    --Common-Contrast: var(--neutral-600);
+    --Common-HeavyContrast: var(--neutral-600);
+
+    /* Accessory Dark */
+    --Accessory-Accessory1: var(--neutral-950);
+    --Accessory-Accessory2: var(--neutral-900);
+    --Accessory-Accessory3: var(--neutral-850);
+    --Accessory-Accessory4: var(--neutral-800);
+    --Accessory-Accessory5: var(--neutral-700);
+    --Accessory-Accessory6: var(--neutral-600);
+    --Accessory-Accessory7: var(--neutral-500);
+
+    /* Text Dark */
+    --Text-Primary: var(--neutral-200);
+    --Text-Secondary: var(--neutral-500);
+    --Text-tertiary: var(--neutral-600);
+
+    /* Berry Theme Dark */
+    --Berry-Base: var(--blue-400);
+    --Berry-Background: var(--blue-800);
+    --Berry-Border: var(--blue-700);
+    --Berry-Contrast: var(--blue-600);
+    --Berry-DisplayHeading: var(--blue-200);
+
+    /* Loading */
+    --loading: #3d3d3d;
+  }
+}
+
+/* styles.css or any imported CSS file */
+.origin-custom {
+  transform-origin: center 200%;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for Firefox */
+.scrollbar-hide {
+  scrollbar-width: none; /* Firefox */
+}
