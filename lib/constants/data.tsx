@@ -135,7 +135,7 @@ export const INFORMATION = {
         for one another, send me an{" "}
         <Link
           className="font-extrabold text-foreground"
-          href={"mailto:goelparas.work@gmail.com"}
+          href={"mailto:work.armaanalam@gmail.com"}
         >
           email
         </Link>{" "}
@@ -157,7 +157,7 @@ export const projects = [
     title: "cssArena",
     imageKey: "cssarena",
     imageUrl:
-      "https://private-user-images.githubusercontent.com/39340406/257930463-66c81410-f875-42d1-91e4-4b9d1f2d421b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY0MTM5NzcsIm5iZiI6MTcyNjQxMzY3NywicGF0aCI6Ii8zOTM0MDQwNi8yNTc5MzA0NjMtNjZjODE0MTAtZjg3NS00MmQxLTkxZTQtNGI5ZDFmMmQ0MjFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE1VDE1MjExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzZGI1OTYxNjZlMjIzNGNhYWJkYjUzODAwOGQ0M2E3MTI2MDdkODc0ZGY1MTM3NDFlZTIxNDE0MzVkNGY0ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zn7ao2uUvv2OfUB8vumq_E_wz6Hxm4LiJkU0AwPD-VA",
+      "https://github.com/armanalam03/assets/blob/main/cssArena.png?raw=true",
     liveLink: "https://github.com/armanalam03/cssArena",
     description:
       "Competitive CSS platform with real-time challenges, scoring, and code evaluation.",
@@ -168,7 +168,7 @@ export const projects = [
     title: "Fingerspell - An ASL Learning App",
     imageKey: "fingerspell",
     imageUrl:
-      "https://private-user-images.githubusercontent.com/39340406/255223089-20d01b4a-7932-4fb4-99ae-f641fcfe992b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY0MTM5MzEsIm5iZiI6MTcyNjQxMzYzMSwicGF0aCI6Ii8zOTM0MDQwNi8yNTUyMjMwODktMjBkMDFiNGEtNzkzMi00ZmI0LTk5YWUtZjY0MWZjZmU5OTJiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE1VDE1MjAzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3YzY1M2FlMmNkYmI3YzhhNmNmYWZlNmJjYjA0NzQyZmQ0Nzg0NjYwMmVkMjk4ZDkxYTMwODBmYmMyMjNmNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xfJwFgRa0O0yE0C5ElFNZe5gSu-kqSOhz-Xg9RVZBx4",
+      "https://github.com/armanalam03/assets/blob/main/fingerspell.png?raw=true",
     liveLink: "https://fingerspell.vercel.app/",
     description:
       "Real-time ASL practice app enhancing communication and learning.",
@@ -189,7 +189,7 @@ export const projects = [
     title: "IG-Cash",
     imageKey: "igcash",
     imageUrl:
-      "https://raw.githubusercontent.com/goelparas/imFWEA/1ed1d158be8ce3c9bef6b7ded925227147e17245/webbuilder.svg",
+      "https://github.com/armanalam03/assets/blob/main/igcash.png?raw=true",
     liveLink: "https://openinapp.com/ig-cash",
     description:
       "An AI-powered tool that identifies products in user images, generates affiliate links, and creates web stores for seamless integration into Instagram posts.",
