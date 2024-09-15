@@ -50,28 +50,28 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta property="og:title" content="Paras | Frontend Developer" />
+        <meta property="og:title" content="Armaan | Frontend Developer" />
         <meta
           property="og:description"
-          content="I am Paras, a frontend developer skilled in Next.js and React, who has built and scaled apps generating over $100k+ in revenue."
+          content="I am Armaan, a frontend developer skilled in Next.js and React, who has built and scaled apps generating over $100k+ in revenue."
         />
         <meta
           property="og:image"
-          content="https://avatars.githubusercontent.com/u/86115703?v=4"
+          content="https://github.com/armanalam03/assets/blob/main/favicon.png?raw=true"
         />
         <meta property="og:url" content="https://example.com" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Paras | Frontend Developer" />
+        <meta name="twitter:title" content="Armaan | Frontend Developer" />
         <meta
           name="twitter:description"
-          content="I am Paras, a frontend developer skilled in Next.js and React, who has built and scaled apps generating over $100k+ in revenue."
+          content="I am Armaan, a frontend developer skilled in Next.js and React, who has built and scaled apps generating over $100k+ in revenue."
         />
         <meta
           name="twitter:image"
-          content="https://avatars.githubusercontent.com/u/86115703?v=4"
+          content="https://github.com/armanalam03/assets/blob/main/favicon.png?raw=true"
         />
       </head>
       <body
